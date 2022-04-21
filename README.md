@@ -1,4 +1,4 @@
-<Hi everyone/> 🚀
+Hi everyone  🚀
 
 I’m Guillaume, a Junior Web Developer & Freelance.
 
