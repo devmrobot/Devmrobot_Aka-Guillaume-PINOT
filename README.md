@@ -16,4 +16,4 @@ Main objectives for 2022 :
 → Assist companies in their digital projects as freelance(web developement - seo - marketing)
 → CODE every day !
 
-- 📫 How to reach me : potfolio in progress !
+- 📫 How to reach me : portfolio in progress !
