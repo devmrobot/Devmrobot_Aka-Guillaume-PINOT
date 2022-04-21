@@ -10,10 +10,10 @@ We learn a lot, and produce team-works as well through 3 main project and 1 Hack
 
 At the end of the bootcamp I'll be able to do front-end and back-end by using HTML/CSS, JavaScript, React, Node, Express, SQL.
 
-Main objectives for 2022 :
-→ Do an internship to work with a dev team and increase my skills
-→ Find a job as Junior Web Developer
-→ Assist companies in their digital projects as freelance(web developement - seo - marketing)
-→ CODE every day !
+Main objectives for 2022 :</br>
+→ Do an internship to work with a dev team and increase my skills</br>
+→ Find a job as Junior Web Developer</br>
+→ Assist companies in their digital projects as freelance(web developement - seo - marketing)</br>
+→ CODE every day !</br>
 
 - 📫 How to reach me : portfolio in progress !
