@@ -16,4 +16,4 @@ Main objectives for 2022 :</br>
   → Assist companies in their digital projects as freelance (web developement - seo - marketing)</br>
   → CODE everyday !</br>
 
-📫 How to reach me : portfolio in progress !
+📫 How to reach me : www.mrobot.fr
